@@ -13,13 +13,19 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 | Feature        | Explanation | Key Binding  |
 | ------------- |-------------|:-----:|
 | Refactor button | This is the gateway to everything, memorize what `1`-`0` do on the top row and your superfast. | `⌥ + t` |
-| Do whatever AppCode wants | This is for things like auto-import | `⌘ + ↵` |
-| Open Symbol | Used to open any source file | `⌘ + t` |
-| Open File | Used to open any other file | `⌘ + ⌥ + o` |
-| Run... | Pressing this then `2` will allow you to run all the tests in a file | `⌘ + ^ + R` |
-| Switch to test file | Only works if you have a matching spec name | `⌘ + ^ + t` |
-| Commit changes | Do all your gut stuff in AppCode | `⌘ + ⌥ + c` |
+| Do whatever AppCode wants | This is for things like auto-import. | `⌘ + ↵` |
+| Open Symbol | Used to open any source file. | `⌘ + t` |
+| Open File | Used to open any other file. | `⌘ + ⌥ + o` |
+| Run... | Pressing this then `2` will allow you to run all the tests in a file. | `⌘ + ^ + R` |
+| Switch to test file | Only works if you have a matching spec name. | `⌘ + ^ + t` |
+| Find all uses of _x_ | Like find all, but with context. | `⌘ + ^ + f` |
+| Commit changes | Do all your git stuff in AppCode | `⌘ + ⌥ + c` |
 | Open Selection in Github |  (This is a plugin, you may have to install yourself.) | `⌘ + ⌥ + g` |
+
+### Custom snippets
+
+* `__weak` will offer a `__weak __typeof(self)weakSelf = self;`
+* `init` will offer a golden path version of the `self = [super init]` function.
 
 
 ### Code Style
