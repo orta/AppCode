@@ -5,7 +5,7 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 
 ### Download link
 
-![Download the .jar](https://github.com/orta/AppCode/raw/master/settings.jar)
+[Download the .jar](https://github.com/orta/AppCode/raw/master/settings.jar)
 
 ### Keybindings
 
