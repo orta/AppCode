@@ -18,6 +18,7 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 | Open File | Used to open any other file | `⌘ + ⌥ + o` |
 | Run... | Pressing this then `2` will allow you to run all the tests in a file | `⌘ + ^ + R` |
 | Switch to test file | Only works if you have a matching spec name | `⌘ + ^ + t` |
+| Find all uses of _x_ | Like find all, but with context. | `⌘ + ^ + f` |
 | Commit changes | Do all your gut stuff in AppCode | `⌘ + ⌥ + c` |
 | Open Selection in Github |  (This is a plugin, you may have to install yourself.) | `⌘ + ⌥ + g` |
 
