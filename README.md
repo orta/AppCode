@@ -16,7 +16,8 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 | Do whatever AppCode wants | This is for things like auto-import | `⌘ + ↵` |
 | Open Symbol | Used to open any source file | `⌘ + t` |
 | Open File | Used to open any other file | `⌘ + ⌥ + o` |
-| Switch to test | Only works if you have a matching spec name | `⌘ + ^ + t` |
+| Run... | Pressing this then `2` will allow you to run all the tests in a file | `⌘ + ^ + R` |
+| Switch to test file | Only works if you have a matching spec name | `⌘ + ^ + t` |
 | Commit changes | Do all your gut stuff in AppCode | `⌘ + ⌥ + c` |
 | Open Selection in Github |  (This is a plugin, you may have to install yourself.) | `⌘ + ⌥ + g` |
 
@@ -24,6 +25,7 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 ### Code Style
 
 The generated code style is mostly the same as what the [NYTimes released](https://github.com/NYTimes/objective-c-style-guide). Think I only disagreed with them on minor issues.
+
 
 ### Keys references
 * `⌘`  = cmd
