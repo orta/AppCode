@@ -27,6 +27,7 @@ I like my custom shortcuts to begin with `⌘` + `⌥` ( command + ctrl ).
 | Hide _all_ sidebars | Bottom / Left & Right. Same as hide debugger in Xcode | `⌘ + ⇧ + y` |
 | Open Task | Search through your tickets on Github and say you're working on that  | `⌘ + ^ + n` |
 | Open in Xcode | The opposite of this plugin: [OROpenInAppCode](https://github.com/orta/OROpenInAppCode)  | `⌘ + ^ + x` |
+| Create a view Split | Splits editor into two  | `⌘ + ^ + s` |
 
 
 ### Custom snippets
