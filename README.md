@@ -3,6 +3,10 @@ AppCode
 
 My custom Setup for App Code. Import via `File > Import Settings`. Some of these are defaults in AppCode, but some of them are not and it's been too long for me to remember which now.
 
+### What I like about AppCode
+
+Consult my [delight file](delight.md).
+
 I like my custom shortcuts to begin with `⌘` + `⌥` ( command + ctrl ).
 
 ### Download link
