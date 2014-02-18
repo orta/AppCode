@@ -1,5 +1,11 @@
 # Things I've liked
 
+## C function arguments highlight
+
+![C Function Args](web/c-function-args.png)
+
+Great for remembering the order of things
+
 ## adding_enum 
 
 ![](https://github.com/orta/AppCode/blob/master/web/adding_enum.gif?raw=true)
