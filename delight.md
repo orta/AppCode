@@ -125,7 +125,7 @@ Shows what you don't need to import,
 
 ![Save Power Mode](web/save-power-mode.png)
 
-It will not do all the syntax hghlighting + symbolification if you want to have longer battery life.
+It will not do all the syntax highlighting + symbolification if you want to have longer battery life.
 
 ## Resize selection in context
 
