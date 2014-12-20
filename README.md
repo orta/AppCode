@@ -7,7 +7,7 @@ My custom Setup for App Code. Import via `File > Import Settings`. Some of these
 
 Consult my [delight file](delight.md).
 
-I like my custom shortcuts to begin with `⌘` + `⌥` ( command + ctrl ).
+I like my custom shortcuts to begin with `⌘` + `^` ( command + ctrl ).
 
 ### Download link
 
