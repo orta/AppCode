@@ -3,6 +3,11 @@ AppCode
 
 My custom Setup for App Code. Import via `File > Import Settings`. Some of these are defaults in AppCode, but some of them are not and it's been too long for me to remember which now.
 
+Currently looks like:
+
+![Looks like this](https://raw.githubusercontent.com/orta/AppCode/master/web/style.png)
+
+
 ### What I like about AppCode
 
 Consult my [delight file](delight.md).
